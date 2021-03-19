@@ -2573,3 +2573,19 @@ body > article {
     margin-top: 0;
   }
 }
+
+.interestITBox {
+  padding: 0 !important;
+}
+
+.interestITBox h3 {
+  background-color: lightgrey;
+  padding: 18px 35px;
+}
+
+.interestITBox p {
+  padding: 18px 35px 35px 35px;
+  font-size: 19px;
+  text-align: left;
+  line-height: 30px;
+}
