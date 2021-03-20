@@ -2574,16 +2574,16 @@ body > article {
   }
 }
 
-.interestITBox {
+.qAndABox {
   padding: 0 !important;
 }
 
-.interestITBox h3 {
+.qAndABox h3 {
   background-color: lightgrey;
   padding: 18px 35px;
 }
 
-.interestITBox p {
+.qAndABox p {
   padding: 18px 35px 35px 35px;
   font-size: 19px;
   text-align: left;
